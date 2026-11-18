@@ -1,0 +1,68 @@
+[
+  {
+    "file": "garden-muse.vrm",
+    "original": "https://github.com/madjin/vrm-samples/blob/master/vroid/beta/HairSample_Female.vrm",
+    "source_sha256": "adfd242317aaabc773f31f7fff7b013979fbb5baa47e97427a78913d9cb4e979",
+    "file_sha256": "66971f406eb110de78b9393bac71e5c4cc33c0237bc17c967fa53151f29e2b1e",
+    "embedded_meta": {
+      "version": "",
+      "author": "",
+      "contactInformation": "",
+      "reference": "",
+      "title": "HairSample_Female",
+      "texture": 24,
+      "allowedUserName": "Everyone",
+      "violentUssageName": "Allow",
+      "sexualUssageName": "Allow",
+      "commercialUssageName": "Allow",
+      "otherPermissionUrl": "",
+      "licenseName": "CC0",
+      "otherLicenseUrl": ""
+    },
+    "changes": "Texture resolution limited to 1024px, normal maps and thumbnail to 512px. PNG lossless recompression; duplicate buffer content deduplicated. Mesh, expressions and license metadata preserved."
+  },
+  {
+    "file": "shore-wanderer.vrm",
+    "original": "https://github.com/madjin/vrm-samples/blob/master/vroid/beta/HairSample_Male.vrm",
+    "source_sha256": "7aeca142dabbc26ba0f5b9c998c8f3cb6df341287d67788427ac837223785a3f",
+    "file_sha256": "b00f192eb36ba1d042fd7f5d52dafe46f807242a2c210673a6f9447c6d6e5daf",
+    "embedded_meta": {
+      "version": "",
+      "author": "",
+      "contactInformation": "",
+      "reference": "",
+      "title": "HairSample_Male",
+      "texture": 24,
+      "allowedUserName": "Everyone",
+      "violentUssageName": "Allow",
+      "sexualUssageName": "Allow",
+      "commercialUssageName": "Allow",
+      "otherPermissionUrl": "",
+      "licenseName": "CC0",
+      "otherLicenseUrl": ""
+    },
+    "changes": "Texture resolution limited to 1024px, normal maps and thumbnail to 512px. PNG lossless recompression; duplicate buffer content deduplicated. Mesh, expressions and license metadata preserved."
+  },
+  {
+    "file": "letter-keeper.vrm",
+    "original": "https://github.com/madjin/vrm-samples/blob/master/vroid/beta/Vivi.vrm",
+    "source_sha256": "eaf902e041a7a810f1423599ae75682f61184ab6ef0206da9a8ed9caa8ec3a9d",
+    "file_sha256": "721db0c1a017eb097b74102b844fe9f3b5be9baf092d17fc260fc3a51979357c",
+    "embedded_meta": {
+      "version": "",
+      "author": "",
+      "contactInformation": "",
+      "reference": "",
+      "title": "Vivi",
+      "texture": 27,
+      "allowedUserName": "Everyone",
+      "violentUssageName": "Allow",
+      "sexualUssageName": "Allow",
+      "commercialUssageName": "Allow",
+      "otherPermissionUrl": "",
+      "licenseName": "CC0",
+      "otherLicenseUrl": ""
+    },
+    "changes": "Texture resolution limited to 1024px, normal maps and thumbnail to 512px. PNG lossless recompression; duplicate buffer content deduplicated. Mesh, expressions and license metadata preserved."
+  }
+]
